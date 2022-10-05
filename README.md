@@ -4,7 +4,7 @@
 
 [![bg][banner]][website]
 
-[banner]: https://github.com/Kir2410/Kir2410/blob/main/Для%20GitHub.png
+[banner]: https://github.com/Kir2410/Kir2410/blob/main/Для%20GitHub%20(1).png
 
 <!--
 **Kir2410/Kir2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
