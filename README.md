@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет!;Меня+зовут+Коршунов+Кирилл)]
 
 <!--
 **Kir2410/Kir2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
