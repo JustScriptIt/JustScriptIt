@@ -5,7 +5,7 @@
 alt="GitHub" width="50" height="50"/></a>
 <a href=""><img src="https://github.com/Kir2410/Kir2410/blob/main/img/Linkedin.png" 
 alt="LinkedIn" width="50" height="50"/></a>
-<a href="https://vk.com/feed"><img src="https://github.com/Kir2410/Kir2410/blob/main/img/vk.png" 
+<a href="https://vk.com/kir_korshun_off"><img src="https://github.com/Kir2410/Kir2410/blob/main/img/vk.png" 
 alt="VK" width="50" height="50"/></a>
 <a href=""><img src="https://github.com/Kir2410/Kir2410/blob/main/img/telegram.png" 
 alt="Telegram" width="50" height="50"/></a>
