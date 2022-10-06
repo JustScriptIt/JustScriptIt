@@ -24,6 +24,10 @@ alt="WhatsApp" width="50" height="50"/></a>
 
 ###
 
+Сейчас, в свободное от стажировки время, я работаю над разработкой <a href="https://kirillkorshunov.ru">своего сайта</a>.
+Если Вы нашли для себя какие-то из моих решений интересными и хотели бы использовать их в своих проектах, то загляните в <a href="https://github.com/Kir2410/kirillkorshunov.ru">репозиторий</a>.
+
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kir2410&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kir2410" /></p>
 
 <!--
