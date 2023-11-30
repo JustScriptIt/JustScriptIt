@@ -1,4 +1,4 @@
-[![bg](https://github.com/Kir2410/Kir2410/blob/main/Group%2018.jpg)]()
+[![bg](https://github.com/Kir2410/Kir2410/blob/main/img/Baner.jpg)]()
 
 <p align="center">
 <a href="https://github.com/Kir2410"><img src="https://github.com/Kir2410/Kir2410/blob/main/img/GitHub.png" 
